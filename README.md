@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am an Undergraduate Student Majoring in Physics. I am currently learning Quantum Computing and Quantum Information theory. I also work on projects related to Machine learning and Deep learning.
 
 <!--
 **sandeshkatakam/sandeshkatakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeshkatakam)](https://github.com/anuraghazra/github-readme-stats)
+### Personal Statistics
+<a href="https://github.com/sandeshkatakam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeshkatakam&theme=gotham&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" width="420" />
+</a>
+
+<a href="https://github.com/sandeshkatakam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshkatakam&langs_count=5&layout=compact&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=gotham"  />
+</a>
+
+<a href="https://github.com/sandeshkatakam">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshkatakam&theme=gotham&show_icons=true&hide_border=true&border_radius=40%&count_private=true&include_all_commits=true" width="420" />
+</a>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sandeshkatakam.sandeshkatakam)
+
