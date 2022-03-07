@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an Undergraduate Student Majoring in Physics. I am currently learning Quantum Computing and Quantum Information theory. I am also currently working on projects in the domain of Machine learning and Deep learning.
+
 
 <!--
 **sandeshkatakam/sandeshkatakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
