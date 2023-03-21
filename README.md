@@ -6,7 +6,7 @@ Here are some stuff about me:
 
 - 🔭 I’m currently working on Neural Differential Equations, Scientific Machine learning, open-souce software development
 - 👯 I’m looking to collaborate on Machine learning and scientific computing projects
-- 📫 Reach me out on ![@twitter][https://twitter.com/sandeshkatakam]
+- 📫 Reach me out on [@twitter](https://twitter.com/sandeshkatakam)
 <!--
 **sandeshkatakam/sandeshkatakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
