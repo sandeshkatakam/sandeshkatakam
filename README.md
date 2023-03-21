@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sandeshkatakam.sandeshkatakam)
 
 ## Skills
-<hr>
 
 ### Programming languages
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 </div>
 
 ### Scientific Computing and Machine Learning libraries and Frameworks
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://scipy.org/images/logo.svg" title="SciPy" alt="SciPy" width="40" height="40"/>&nbsp;
@@ -71,6 +72,7 @@ Here are some ideas to get you started:
 </div>
 
 ### Version Control and DevOps Tools 
+
 <div>
   <img src="https://1000logos.net/wp-content/uploads/2020/08/Git-Logo-500x313.png" title="Git" alt="Git" width="60" height="40"/>&nbsp;
   <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png" title="GitHub" alt="GitHub" width="80" height="40"/>&nbsp;
@@ -79,6 +81,7 @@ Here are some ideas to get you started:
 </div>
 
 ### Web Devlopment Tools  
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
@@ -94,6 +97,7 @@ Here are some ideas to get you started:
 </div>
 
 ### Other Skills  
+
 <div>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="50" height="40"/>&nbsp;
