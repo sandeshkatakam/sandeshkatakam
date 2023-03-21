@@ -64,7 +64,6 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://fluxml.ai/Flux.jl/stable/assets/logo.png" title="Flux.jl" alt="Flux.jl" width="80" height="40"/>&nbsp;
-  <img src="https://docs.juliahub.com/DiffEqOperators/Vx3Cs/4.20.0/assets/logo.png" title="DiffEqFlux.jl" alt="DiffEqFlux.jl" width="35" height="35"/>&nbsp;
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" title="Scikit-learn" alt="Scikit-learn" width="60" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda Package manager" alt="Anaconds package manager" width="60" height="40"/>&nbsp;
           
