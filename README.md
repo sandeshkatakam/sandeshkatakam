@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Personal Statistics on GitHub 
+### Stats on GitHub 
 <a href="https://github.com/sandeshkatakam">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeshkatakam&theme=gotham&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" width="420" />
 </a>
