@@ -1,26 +1,38 @@
-### Hi there 👋
+## Hi, I'm Sandesh Katakam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 
-This is sandesh katakam, a BS-MS Undergraduate Mathematics Major student at IISER Berhampur. 
+Currently a BS-MS Mathematics Major student at IISER Berhampur.  I am broadly interested in Applied Mathematics and Machine Learning.   
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%23F77B93&width=435&lines=Nice+to+meet+you!;I+am+a+mathematics+undergrad;Interested+in+Machine+Learning)](https://git.io/typing-svg)
+### Connect with me on:  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-katakam-79b6b1135/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sandeshkatakam)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sandeshkatakam.github.io/)
 
-Here are some stuff about me: 
+
+
+
+### some stuff about me: 
 
 - 🔭 I’m currently working on Neural Differential Equations, Scientific Machine learning, open-souce software development
 - 👯 I’m looking to collaborate on Machine learning and scientific computing projects
-- 📫 Reach out to me on [@twitter](https://twitter.com/sandeshkatakam) and [@Linkedin](https://www.linkedin.com/in/sandesh-katakam-79b6b1135/)
+- 📫 Excited to meet and collaborate on Machine Learning research. Reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-katakam-79b6b1135/) and
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sandeshkatakam)
+- 🌱 I’m currently learning Applied Math, Scientific Computing and Software development for Machine learning Research
+- ⚡ Fun fact: I am very interested and active in touch typing community (Consistently recording over 120 WPM)
+- 💬 Ask me about Machine Learning, Linux and Programming Languages
 
 <!--
 **sandeshkatakam/sandeshkatakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-
-- 🌱 I’m currently learning ...
+ ...
 - 👯 I’m looking to collaborate on ...
 
-- 💬 Ask me about ...
+- .
 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 ### Stats on GitHub 
 <a href="https://github.com/sandeshkatakam">
