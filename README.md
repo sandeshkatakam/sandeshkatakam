@@ -2,18 +2,17 @@
 Currently a BS-MS Mathematics Major student at IISER Berhampur.  I am broadly interested in Applied Mathematics and Machine Learning.   
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%23F77B93&width=435&lines=Nice+to+meet+you!;I+am+a+mathematics+undergrad;Interested+in+Machine+Learning)](https://git.io/typing-svg)
-## Find me on:  
+## Find me on: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-katakam-79b6b1135/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sandeshkatakam)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sandeshkatakam)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Sandesh-Katakam)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/sandeshkatakam)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@sandeshkatakam)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18009563/sandesh-katakam)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sandesh_katakam/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sandeshk)
 
-## Some stuff about me: 
+## Some stuff about me: <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
 
 - 🔭 I’m currently working on Neural Differential Equations, Scientific Machine learning, open-souce software development
 - 👯 I’m looking to collaborate on Machine learning and scientific computing projects
@@ -37,7 +36,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-## Stats on GitHub 
+## Stats on GitHub <img src="https://c.tenor.com/ZULdaf8iCHgAAAAi/100-discord.gif" width="28"/>
 <a href="https://github.com/sandeshkatakam">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeshkatakam&theme=gotham&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" width="420" />
 </a>
