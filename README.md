@@ -52,7 +52,9 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sandeshkatakam.sandeshkatakam)
 
-## Skills
+---
+
+## My Tech Stack
 
 ### Programming languages
 
