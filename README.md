@@ -21,7 +21,7 @@ Currently a BS-MS Mathematics Major student at IISER Berhampur.  I am broadly in
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sandeshkatakam)
 - 🌱 I’m currently learning Applied Mathematics, Deep Reinforcement Learning and Generative Models
 - ⚡ Fun fact: I am an avid enthusiast of Touch Typing on QWERTY (Consistently recording over 120+ WPM)
-- 💬 Ask me about Machine Learning, Linux, and Programming Languages a
+- 💬 Ask me about Machine Learning, Linux, and Programming Languages
 
 <!--
 **sandeshkatakam/sandeshkatakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
