@@ -19,7 +19,7 @@ Currently a BS-MS Mathematics Major student at IISER Berhampur.  I am broadly in
 - 👯 I’m looking to collaborate on Machine learning Research Projects and Cool Open Source Projects
 - 📫 Excited to meet and collaborate on Machine Learning research. Reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-katakam-79b6b1135/) and
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sandeshkatakam)
-- 🌱 I’m currently learning Applied Mathematics, Deep Reinforcement Learning and Generative Models
+- 🌱 I’m currently learning Deep Reinforcement Learning, Neural Differntial Equations and Generative Models
 - ⚡ Fun fact: I am an avid enthusiast of Touch Typing on QWERTY (Consistently recording over 120+ WPM)
 - 💬 Ask me about Machine Learning, Linux, and Programming Languages
 
