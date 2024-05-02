@@ -1,7 +1,6 @@
 ## Hi, I'm Sandesh Katakam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>  
-Currently a BS-MS Mathematics Major student at IISER Berhampur.  I am broadly interested in Applied Mathematics and Machine Learning.   
+Currently a BS-MS Mathematics Major(with a Minor in Computer Science) student at IISER Berhampur.  I am broadly interested in Machine Learning Research 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%23F77B93&width=435&lines=Nice+to+meet+you!;I+am+a+mathematics+undergrad;Interested+in+Machine+Learning)](https://git.io/typing-svg)
 ## Find me on: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-katakam-79b6b1135/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sandeshkatakam)
@@ -13,15 +12,20 @@ Currently a BS-MS Mathematics Major student at IISER Berhampur.  I am broadly in
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sandesh_katakam/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sandeshk) -->
 
-## Some stuff about me: <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
+## Some stuff about me:
 
-- 🔭 I’m currently working on Neural Differential Equations, Model-based Reinforcement learning and Deep Generative Models
-- 👯 I’m looking to collaborate on Machine learning Research Projects and Cool Open Source Projects
-- 📫 Excited to meet and collaborate on Machine Learning research. Reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-katakam-79b6b1135/) and
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sandeshkatakam)
-- 🌱 I’m currently learning Deep Reinforcement Learning, Neural Differntial Equations and Generative Models
-- ⚡ Fun fact: I am an avid enthusiast of Touch Typing on QWERTY (Consistently recording over 120+ WPM)
-- 💬 Ask me about Machine Learning, Linux, and Programming Languages
+### Research Interests:
+- Reinforcement Learning and Sequential Decision Making
+- Neural Differential Equations
+- Unsupervised Learning and Self Supervised Learning
+- Foundation Models for Reinforcement Learning
+- Machine Learning Systems(MLSys) and Systems for Machine Learning(SysML)
+
+  I am looking to collaborate on Machine Learning Research Projects in the above research domains mentioned and Cool Open Source Projects in the Machine learning Space
+  
+
+**Fun Fact**: I am an avid enthusiast of Touch Typing on QWERTY (Consistently recording over 120+ WPM)
+
 
 <!--
 **sandeshkatakam/sandeshkatakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +41,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-## Stats on GitHub <img src="https://c.tenor.com/ZULdaf8iCHgAAAAi/100-discord.gif" width="28"/>
+## Stats on GitHub 
 <a href="https://github.com/sandeshkatakam">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeshkatakam&theme=gotham&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" width="420" />
 </a>
@@ -65,8 +69,11 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title = "rust" alt= "rust" width = "40" height="40" />&nbsp;
+          
+  
           
   
 </div>
