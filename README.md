@@ -12,8 +12,6 @@ Currently a BS-MS Mathematics Major(with a Minor in Computer Science) student at
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sandesh_katakam/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sandeshk) -->
 
-
-
 ### Research Interests:
 - Reinforcement Learning and Sequential Decision Making
 - Neural Differential Equations
@@ -21,7 +19,7 @@ Currently a BS-MS Mathematics Major(with a Minor in Computer Science) student at
 - Foundation Models for Reinforcement Learning
 - Machine Learning Systems(MLSys) and Systems for Machine Learning(SysML)
 
-  I am looking to collaborate on Machine Learning Research Projects in the above research domains mentioned and Cool Open Source Projects in the Machine learning Space
+**Open for collaborations** on Machine Learning Research Projects and Cool Open Source Project Ideas..
 
 **Fun Fact**: I am an avid enthusiast of Touch Typing on QWERTY (Consistently recording over 120+ WPM)
 
