@@ -6,13 +6,13 @@ Currently a BS-MS Mathematics Major(with a Minor in Computer Science) student at
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sandeshkatakam)
 <!-- [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sandeshkatakam)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Sandesh-Katakam) -->
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/sandeshkatakam)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@sandeshkatakam)
+<!-- [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/sandeshkatakam)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@sandeshkatakam) -->
 <!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18009563/sandesh-katakam)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sandesh_katakam/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sandeshk) -->
 
-## Some stuff about me:
+
 
 ### Research Interests:
 - Reinforcement Learning and Sequential Decision Making
@@ -22,7 +22,6 @@ Currently a BS-MS Mathematics Major(with a Minor in Computer Science) student at
 - Machine Learning Systems(MLSys) and Systems for Machine Learning(SysML)
 
   I am looking to collaborate on Machine Learning Research Projects in the above research domains mentioned and Cool Open Source Projects in the Machine learning Space
-  
 
 **Fun Fact**: I am an avid enthusiast of Touch Typing on QWERTY (Consistently recording over 120+ WPM)
 
@@ -41,6 +40,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
+<!--
 ## Stats on GitHub 
 <a href="https://github.com/sandeshkatakam">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeshkatakam&theme=gotham&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" width="420" />
@@ -99,7 +99,7 @@ Here are some ideas to get you started:
   <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png" title="GitHub" alt="GitHub" width="80" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="60" height="40"/>&nbsp;
           
-</div> -->
+</div>
 
 ### Web Devlopment Tools  
 
@@ -127,3 +127,4 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" alt= "Vim" width="50" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="50" height="40"/>&nbsp;
 </div> 
+-->
